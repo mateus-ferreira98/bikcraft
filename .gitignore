@@ -1,0 +1,10 @@
+# Arquivos temporários
+*~
+*.tmp
+
+# Arquivos de compilação
+*.o
+*.out
+
+# Arquivos de log
+*.log
